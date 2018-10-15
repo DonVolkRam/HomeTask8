@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
+//С помощью рефлексии выведите все свойства структуры DateTime
 namespace Ex1
 {
 
