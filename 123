@@ -1,23 +1,22 @@
 <?xml version="1.0"?>
 <ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Question>
-    <text>Сегодня понедельник?</text>
-    <trueFalse>true</trueFalse>
+    <Text>Первое мая - праздник?</Text>
+    <TrueFalse>true</TrueFalse>
   </Question>
   <Question>
-    <text>Сегодня вторник?</text>
-    <trueFalse>false</trueFalse>
+    <Text>Кошка - утка?</Text>
+    <TrueFalse>false</TrueFalse>
   </Question>
   <Question>
-    <text>3</text>
-    <trueFalse>true</trueFalse>
+    <Text>Привет?</Text>
+    <TrueFalse>true</TrueFalse>
   </Question>
   <Question>
-    <text>4</text>
-    <trueFalse>true</trueFalse>
+    <Text>Вопрос правда?</Text>
+    <TrueFalse>true</TrueFalse>
   </Question>
   <Question>
-    <text>5</text>
-    <trueFalse>true</trueFalse>
+    <TrueFalse>false</TrueFalse>
   </Question>
 </ArrayOfQuestion>
