@@ -16,5 +16,18 @@ namespace Ex5
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string filename;
+            OpenFileDialog ofd = new OpenFileDialog();
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                filename = ofd.FileName;
+                List<Student> list = new List<Student>();
+                Student.LoadAsCsvFormat(ref list, filename);
+                Student.SaveAsXmlFormat(list, filename+".xml");
+            }
+        }
     }
 }
