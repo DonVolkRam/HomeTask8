@@ -1,0 +1,553 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <lastName>Никеров</lastName>
+    <firstName>Тихон</firstName>
+    <university>Московский институт энергобезопасности и энергосбережения</university>
+    <faculty>Биологический факультет</faculty>
+    <course>5</course>
+    <department>Спортивная</department>
+    <group>2</group>
+    <city>Орск</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Набутов</lastName>
+    <firstName>Феофан</firstName>
+    <university>Московский государственный юридический университет</university>
+    <faculty>Московская школа экономики</faculty>
+    <course>4</course>
+    <department>Нефтяная</department>
+    <group>8</group>
+    <city>Северск</city>
+    <age>21</age>
+  </Student>
+  <Student>
+    <lastName>Холодов</lastName>
+    <firstName>Карп</firstName>
+    <university>Московский автомобильно-дорожный государственный технический университет</university>
+    <faculty>Механико?математический факультет</faculty>
+    <course>6</course>
+    <department>Лингвистическая</department>
+    <group>19</group>
+    <city>Урус-Мартан</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Кулактин</lastName>
+    <firstName>Сидор</firstName>
+    <university>Московский пограничный институт ФСБ России</university>
+    <faculty>Высшая школа телевидения</faculty>
+    <course>1</course>
+    <department>Биотехнологии</department>
+    <group>20</group>
+    <city>Алексин</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Ясько</lastName>
+    <firstName>Тимур</firstName>
+    <university>Московский государственный университет</university>
+    <faculty>Высшая школа телевидения</faculty>
+    <course>2</course>
+    <department>Ветеринарная</department>
+    <group>13</group>
+    <city>Таганрог</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Циолковский</lastName>
+    <firstName>Федот</firstName>
+    <university>Московский государственный университет печати</university>
+    <faculty>Экономический факультет</faculty>
+    <course>2</course>
+    <department>Медицинская</department>
+    <group>17</group>
+    <city>Новоуральск</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Фёдоров</lastName>
+    <firstName>Станислав</firstName>
+    <university>Московский государственный горный университет</university>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <course>2</course>
+    <department>Нефтяная</department>
+    <group>18</group>
+    <city>Крымск</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Ширинов</lastName>
+    <firstName>Платон</firstName>
+    <university>Московский государственный университет</university>
+    <faculty>Высшая школа бизнеса</faculty>
+    <course>2</course>
+    <department>МЧС</department>
+    <group>19</group>
+    <city>Краснотурьинск</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Шаляпин</lastName>
+    <firstName>Тит</firstName>
+    <university>Московский зоотехнический институт</university>
+    <faculty>Социологический факультет</faculty>
+    <course>6</course>
+    <department>Музыкальная</department>
+    <group>10</group>
+    <city>Анжеро-Судженск</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Поливанов</lastName>
+    <firstName>Трофим</firstName>
+    <university>МГИМО</university>
+    <faculty>Высшая школа телевидения</faculty>
+    <course>3</course>
+    <department>Военная</department>
+    <group>1</group>
+    <city>Абакан</city>
+    <age>20</age>
+  </Student>
+  <Student>
+    <lastName>Болокан</lastName>
+    <firstName>Назар</firstName>
+    <university>Московский юридический институт</university>
+    <faculty>Механико?математический факультет</faculty>
+    <course>3</course>
+    <department>Театральная</department>
+    <group>7</group>
+    <city>Благовещенск (Амурская область)</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Нутрихин</lastName>
+    <firstName>Сигизмунд</firstName>
+    <university>Московский государственный университет экономики, статистики и информатики</university>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <course>6</course>
+    <department>МЧС</department>
+    <group>1</group>
+    <city>Мытищи</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Носов</lastName>
+    <firstName>Виссарион</firstName>
+    <university>Московский индустриально-педагогический институт имени Карла Либкнехта</university>
+    <faculty>Высшая школа государственного аудита</faculty>
+    <course>6</course>
+    <department>Строительная</department>
+    <group>17</group>
+    <city>Оренбург</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Милюков</lastName>
+    <firstName>Евстигней</firstName>
+    <university>Московская сельскохозяйственная академия имени К. А. Тимирязева</university>
+    <faculty>Высшая школа культурной политики и управления в гуманитарной сфере</faculty>
+    <course>2</course>
+    <department>Спортивная</department>
+    <group>22</group>
+    <city>Ногинск</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Зубков</lastName>
+    <firstName>Ефрем</firstName>
+    <university>Московский государственный открытый университет имени В. С. Черномырдина</university>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <course>5</course>
+    <department>МВД</department>
+    <group>11</group>
+    <city>Волжск</city>
+    <age>21</age>
+  </Student>
+  <Student>
+    <lastName>Сыропоршнев</lastName>
+    <firstName>Антон</firstName>
+    <university>Московский государственный лингвистический университет</university>
+    <faculty>Факультет военного обучения</faculty>
+    <course>5</course>
+    <department>Военная</department>
+    <group>18</group>
+    <city>Сыктывкар</city>
+    <age>21</age>
+  </Student>
+  <Student>
+    <lastName>Бурдуковский</lastName>
+    <firstName>Емельян</firstName>
+    <university>Московский государственный институт культуры</university>
+    <faculty>Географический факультет</faculty>
+    <course>2</course>
+    <department>Авиационная</department>
+    <group>21</group>
+    <city>Усть-Илимск</city>
+    <age>24</age>
+  </Student>
+  <Student>
+    <lastName>Коротченко</lastName>
+    <firstName>Семен</firstName>
+    <university>Московский государственный лингвистический университет</university>
+    <faculty>Факультет искусств</faculty>
+    <course>1</course>
+    <department>Культуры и искусств</department>
+    <group>25</group>
+    <city>Кинешма</city>
+    <age>24</age>
+  </Student>
+  <Student>
+    <lastName>Водопьянов</lastName>
+    <firstName>Юлий</firstName>
+    <university>Московский технологический университет (МГУПИ)</university>
+    <faculty>Факультет политологии</faculty>
+    <course>1</course>
+    <department>Ветеринарная</department>
+    <group>4</group>
+    <city>Черемхово</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Квитко</lastName>
+    <firstName>Кир</firstName>
+    <university>Международный независимый эколого-политологический университет</university>
+    <faculty>Высшая школа инновационного бизнеса</faculty>
+    <course>2</course>
+    <department>Строительная</department>
+    <group>5</group>
+    <city>Находка</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Лапаев</lastName>
+    <firstName>Тимофей</firstName>
+    <university>Московская академия хореографии</university>
+    <faculty>Химический факультет</faculty>
+    <course>1</course>
+    <department>Нефтяная</department>
+    <group>18</group>
+    <city>Мурманск</city>
+    <age>24</age>
+  </Student>
+  <Student>
+    <lastName>Гришкин</lastName>
+    <firstName>Виталий</firstName>
+    <university>Московский историко-архивный институт</university>
+    <faculty>Механико?математический факультет</faculty>
+    <course>3</course>
+    <department>Педагогическая</department>
+    <group>10</group>
+    <city>Гатчина</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Кураев</lastName>
+    <firstName>Кондрат</firstName>
+    <university>Московский государственный текстильный университет имени А. Н. Косыгина</university>
+    <faculty>Высшая школа перевода</faculty>
+    <course>1</course>
+    <department>Спортивная</department>
+    <group>12</group>
+    <city>Нижний Новгород</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Жариков</lastName>
+    <firstName>Никита</firstName>
+    <university>Московский архитектурный институт (государственная академия)</university>
+    <faculty>Биологический факультет</faculty>
+    <course>3</course>
+    <department>Строительная</department>
+    <group>3</group>
+    <city>Волжск</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Хабибов</lastName>
+    <firstName>Валерий</firstName>
+    <university>Московский городской педагогический университет</university>
+    <faculty>Высшая школа телевидения</faculty>
+    <course>5</course>
+    <department>Военная</department>
+    <group>2</group>
+    <city>Мелеуз</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Яблонский</lastName>
+    <firstName>Афанасий</firstName>
+    <university>Московский государственный университет инженерной экологии</university>
+    <faculty>Факультет педагогического образования</faculty>
+    <course>5</course>
+    <department>Дизайна</department>
+    <group>13</group>
+    <city>Кумертау</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Косков</lastName>
+    <firstName>Евсей</firstName>
+    <university>Московский институт востоковедения</university>
+    <faculty>Высшая школа государственного администрирования</faculty>
+    <course>1</course>
+    <department>Военная</department>
+    <group>5</group>
+    <city>Омск</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Кичеев</lastName>
+    <firstName>Архип</firstName>
+    <university>Московский государственный гуманитарный университет имени М. А. Шолохова</university>
+    <faculty>Высшая школа государственного администрирования</faculty>
+    <course>4</course>
+    <department>Авиационная</department>
+    <group>18</group>
+    <city>Россошь</city>
+    <age>21</age>
+  </Student>
+  <Student>
+    <lastName>Генкин</lastName>
+    <firstName>Лаврентий</firstName>
+    <university>Московский государственный гуманитарный университет имени М. А. Шолохова</university>
+    <faculty>Факультет государственного управления</faculty>
+    <course>1</course>
+    <department>Биотехнологии</department>
+    <group>8</group>
+    <city>Волгоград</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Конаков</lastName>
+    <firstName>Андрей</firstName>
+    <university>Московский государственный институт музыки имени А. Г. Шнитке</university>
+    <faculty>Факультет почвоведения</faculty>
+    <course>1</course>
+    <department>Ветеринарная</department>
+    <group>5</group>
+    <city>Хабаровск</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Шашлов</lastName>
+    <firstName>Федосий</firstName>
+    <university>Международный независимый эколого-политологический университет</university>
+    <faculty>Высшая школа современных социальных наук</faculty>
+    <course>6</course>
+    <department>Музыкальная</department>
+    <group>23</group>
+    <city>Фрязино</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Сурнин</lastName>
+    <firstName>Николай</firstName>
+    <university>Московский государственный медико-стоматологический университет</university>
+    <faculty>Высшая школа телевидения</faculty>
+    <course>1</course>
+    <department>Гуманитарная</department>
+    <group>23</group>
+    <city>Лиски</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Ярилов</lastName>
+    <firstName>Кондратий</firstName>
+    <university>Московский городской педагогический университет</university>
+    <faculty>Высшая школа перевода</faculty>
+    <course>5</course>
+    <department>Гуманитарная</department>
+    <group>13</group>
+    <city>Майкоп</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Ахметов</lastName>
+    <firstName>Бронислав</firstName>
+    <university>Московский городской педагогический университет</university>
+    <faculty>Факультет почвоведения</faculty>
+    <course>1</course>
+    <department>Биотехнологии</department>
+    <group>16</group>
+    <city>Краснотурьинск</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Хитрово</lastName>
+    <firstName>Артем</firstName>
+    <university>Московский государственный технический университет гражданской авиации</university>
+    <faculty>Высшая школа государственного администрирования</faculty>
+    <course>1</course>
+    <department>Военная</department>
+    <group>15</group>
+    <city>Павлово</city>
+    <age>24</age>
+  </Student>
+  <Student>
+    <lastName>Пономарев</lastName>
+    <firstName>Владлен</firstName>
+    <university>Московская художественно-промышленная академия имени С. Г. Строганова</university>
+    <faculty>Факультет педагогического образования</faculty>
+    <course>3</course>
+    <department>Ветеринарная</department>
+    <group>15</group>
+    <city>Ессентуки</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Жиганов</lastName>
+    <firstName>Иннокентий</firstName>
+    <university>Московский государственный университет печати</university>
+    <faculty>Биотехнологический факультет</faculty>
+    <course>4</course>
+    <department>Военная</department>
+    <group>14</group>
+    <city>Уссурийск</city>
+    <age>21</age>
+  </Student>
+  <Student>
+    <lastName>Полторак</lastName>
+    <firstName>Феликс</firstName>
+    <university>Московский международный университет</university>
+    <faculty>Факультет психологии</faculty>
+    <course>6</course>
+    <department>Музыкальная</department>
+    <group>10</group>
+    <city>Свободный</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Капица</lastName>
+    <firstName>Богдан</firstName>
+    <university>Московский автомобильно-дорожный государственный технический университет</university>
+    <faculty>Высшая школа государственного аудита</faculty>
+    <course>2</course>
+    <department>Ветеринарная</department>
+    <group>17</group>
+    <city>Туймазы</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Козланюк</lastName>
+    <firstName>Лукьян</firstName>
+    <university>Московский технологический университет (МИТХТ)</university>
+    <faculty>Факультет глобальных процессов</faculty>
+    <course>6</course>
+    <department>Журналистики</department>
+    <group>7</group>
+    <city>Элиста</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Яговкин</lastName>
+    <firstName>Лавр</firstName>
+    <university>Московский государственный университет экономики, статистики и информатики</university>
+    <faculty>Высшая школа государственного администрирования</faculty>
+    <course>3</course>
+    <department>Архитектурная</department>
+    <group>21</group>
+    <city>Всеволожск</city>
+    <age>20</age>
+  </Student>
+  <Student>
+    <lastName>Филимонов</lastName>
+    <firstName>Петр</firstName>
+    <university>Московский государственный университет пищевых производств</university>
+    <faculty>Биологический факультет</faculty>
+    <course>2</course>
+    <department>Культуры и искусств</department>
+    <group>13</group>
+    <city>Чапаевск</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Илюшкин</lastName>
+    <firstName>Игнатий</firstName>
+    <university>Московский технический университет связи и информатики</university>
+    <faculty>Факультет наук о материалах</faculty>
+    <course>3</course>
+    <department>Гуманитарная</department>
+    <group>12</group>
+    <city>Кемерово</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Терехов</lastName>
+    <firstName>Мартьян</firstName>
+    <university>Московский политехнический университет</university>
+    <faculty>Факультет искусств</faculty>
+    <course>1</course>
+    <department>Музыкальная</department>
+    <group>5</group>
+    <city>Сочи</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Ягфаров</lastName>
+    <firstName>Мефодий</firstName>
+    <university>Московский государственный институт музыки имени А. Г. Шнитке</university>
+    <faculty>Механико?математический факультет</faculty>
+    <course>1</course>
+    <department>Медицинская</department>
+    <group>11</group>
+    <city>Котлас</city>
+    <age>24</age>
+  </Student>
+  <Student>
+    <lastName>Явлюхин</lastName>
+    <firstName>Елизар</firstName>
+    <university>Международный независимый эколого-политологический университет</university>
+    <faculty>Факультет наук о материалах</faculty>
+    <course>2</course>
+    <department>Аграрная</department>
+    <group>16</group>
+    <city>Воркута</city>
+    <age>24</age>
+  </Student>
+  <Student>
+    <lastName>Лихачёв</lastName>
+    <firstName>Юлиан</firstName>
+    <university>Московский государственный технический университет имени Н. Э. Баумана</university>
+    <faculty>Факультет государственного управления</faculty>
+    <course>2</course>
+    <department>Архитектурная</department>
+    <group>13</group>
+    <city>Балахна</city>
+    <age>18</age>
+  </Student>
+  <Student>
+    <lastName>Невский</lastName>
+    <firstName>Еремей</firstName>
+    <university>Московский государственный открытый университет имени В. С. Черномырдина</university>
+    <faculty>Высшая школа инновационного бизнеса</faculty>
+    <course>3</course>
+    <department>Гуманитарная</department>
+    <group>10</group>
+    <city>Геленджик</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Алеев</lastName>
+    <firstName>Капитон</firstName>
+    <university>Московский государственный психолого-педагогический университет</university>
+    <faculty>Факультет политологии</faculty>
+    <course>1</course>
+    <department>Аграрная</department>
+    <group>17</group>
+    <city>Нижний Новгород</city>
+    <age>24</age>
+  </Student>
+  <Student>
+    <lastName>Евремович</lastName>
+    <firstName>Антип</firstName>
+    <university>Московский государственный университет технологий и управления</university>
+    <faculty>Специализированный учебно?научный центр</faculty>
+    <course>2</course>
+    <department>Культуры и искусств</department>
+    <group>25</group>
+    <city>Саратов</city>
+    <age>19</age>
+  </Student>
+</ArrayOfStudent>

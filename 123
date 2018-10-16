@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>Первое мая - праздник?</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Кошка - утка?</Text>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Привет?</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <Text>Вопрос правда?</Text>
+    <TrueFalse>true</TrueFalse>
+  </Question>
+  <Question>
+    <TrueFalse>false</TrueFalse>
+  </Question>
+</ArrayOfQuestion>

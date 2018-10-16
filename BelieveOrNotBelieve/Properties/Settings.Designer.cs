@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HomeTask8.Properties
+namespace BelieveOrNotBelieve.Properties
 {
 
 
